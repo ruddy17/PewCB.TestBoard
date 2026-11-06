@@ -53,7 +53,7 @@
 			)
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
-				(color "Red")
+				(color "Blue")
 				(thickness 0.0325)
 			)
 			(layer "B.Paste"
@@ -81,7 +81,7 @@
 		(aux_axis_origin 152.4 101.6)
 		(grid_origin 152.4 101.6)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5775f55f)
+			(layerselection 0x00000000_00000000_55555555_5755f55f)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros yes)
 			(usegerberextensions no)
@@ -108,8 +108,8 @@
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
-			(sketchdnponfab yes)
-			(crossoutdnponfab yes)
+			(sketchdnponfab no)
+			(crossoutdnponfab no)
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
